@@ -21,5 +21,8 @@ Este projeto visa explorar dados globais de resíduos plásticos para identifica
 
 ![top_10_countries_plastic_generated](https://github.com/user-attachments/assets/c999f4a0-2b5c-4781-8aa0-b65c26588f12)
 
+![recycling_vs_generated](https://github.com/user-attachments/assets/a123a77a-cbd8-479c-a145-5eadd598e16c)
+
+
 
 ---
