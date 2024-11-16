@@ -19,4 +19,7 @@ Este projeto visa explorar dados globais de resíduos plásticos para identifica
   - [Matplotlib](https://matplotlib.org/) e [Seaborn](https://seaborn.pydata.org/) para visualizações.
 - **Dataset:** [Global Plastic Waste 2023](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis)
 
+![top_10_countries_plastic_generated](https://github.com/user-attachments/assets/c999f4a0-2b5c-4781-8aa0-b65c26588f12)
+
+
 ---
