@@ -13,7 +13,7 @@ Este projeto visa explorar dados globais de resíduos plásticos para identifica
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Python 3.11
+- **Linguagem:** Python
 - **Bibliotecas:** 
   - [Pandas](https://pandas.pydata.org/) para manipulação de dados.
   - [Matplotlib](https://matplotlib.org/) e [Seaborn](https://seaborn.pydata.org/) para visualizações.
